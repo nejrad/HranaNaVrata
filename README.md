@@ -6,6 +6,7 @@ Kupci mogu iz komfora svog doma, sa planine ili posla kroz ovakav sistem, pomoć
 
 Dakle jedan ovakav sistem mora omogućiti interakciju kupaca i restorana pa ovaj projekat mora imati određene podatke o kupcima, narudžbi, restoranu, ponudi restorana, dostavi i slično. Sistem također nudi mogućnost pregleda okolnih restorana, njihove ponude, ostavljanja recenzije itd.
 
+
 **Ukratko neki od ciljeva razvijanja projekta online naručivanja hrane:**
 - da se tradicionalni način pisanja porudžbina zamijeni računarskim sistemom,
 - da se olakša kupcu proces naručivanja,
